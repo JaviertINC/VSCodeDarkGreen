@@ -1,0 +1,27 @@
+{
+    "name": "vscode-darkgreen",
+    "displayName": "VSCode DarkGreen",
+    "description": "Una versión oscura, ayuda a cuidar tus ojos :D",
+    "version": "0.0.1",
+	"publisher": "JaviertINC",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VSCode DarkGreen",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vscode-darkgreen.json"
+            }
+        ]
+    },
+	"__metadata": {
+		"id": "f268dc63-e791-471a-ae93-feebb7f7a789",
+		"publisherId": "JaviertINC",
+		"publisherDisplayName": "JaviertINC"
+	}
+}
