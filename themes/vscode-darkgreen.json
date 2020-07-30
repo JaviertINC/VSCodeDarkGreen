@@ -24,8 +24,8 @@
 		"checkbox.foreground": "#fff",
 		"checkbox.border": "#4caf50",
 
-		"dropdown.background": "#4c4c4c",
-		"dropdown.listBackground": "#4caf50",
+		"dropdown.background": "#4caf50",
+		"dropdown.listBackground": "#4c4c4c",
 		"dropdown.border": "#4caf50",
 		"dropdown.foreground": "#fff",
 
@@ -52,7 +52,75 @@
 		"scrollbarSlider.hoverBackground": "#666",
 
 		"badge.foreground": "#fff",
-		"badge.background": "#4caf50"
+		"badge.background": "#4caf50",
+
+		"progressBar.background": "#4caf50",
+
+
+		"activityBar.background": "#4c4c4c",
+		"activityBar.dropBackground": "#4c4c4c",
+		"activityBar.dropBorder": "#4caf50",
+		"activityBar.foreground": "#fff",
+		"activityBar.inactiveForeground": "#f1f1f1",
+		"activityBar.border": "#4caf50",
+		"activityBarBadge.background": "#4caf50",
+		"activityBarBadge.foreground": "#fff",
+		"activityBar.activeBorder": "#4c4c4c",
+		"activityBar.activeBackground": "#4caf50",
+		"activityBar.activeFocusBorder": "#5dbf61",
+
+		"sideBar.background": "#333",
+		"sideBar.foreground": "#fff",
+		"sideBar.border": "#4caf50",
+		"sideBar.dropBackground": "#4caf50",
+		"sideBarTitle.foreground": "#fff",
+		"sideBarSectionHeader.background": "#555",
+		"sideBarSectionHeader.foreground": "#fff",
+		"sideBarSectionHeader.border": "#4caf50",
+
+		"minimap.background": "#242424",
+
+		"notificationCenter.border": "#4caf50",
+		"notificationCenterHeader.foreground": "#fff",
+		"notificationCenterHeader.background": "#4c4c4c",
+		"notificationToast.border": "#4caf50",
+		"notifications.foreground": "#fff",
+		"notifications.background": "#4c4c4c",
+		"notifications.border": "#4caf50",
+		"notificationLink.foreground": "#4caf50",
+		"notificationsErrorIcon.foreground": "#ff3232",
+		"notificationsWarningIcon.foreground": "#ffc100",
+		"notificationsInfoIcon.foreground": "#60bafd",
+		
+		"notification.background": "#4c4c4c",
+		"notification.foreground": "#fff",
+		"notification.buttonBackground": "#4caf50",
+		"notification.buttonForeground": "#fff",
+		"notification.buttonHoverBackground": "#5dbf61",
+		"notification.errorBackground": "#ff3232",
+		"notification.errorForeground": "#fff",
+		"notification.infoBackground": "#60bafd",
+		"notification.infoForeground": "#fff",
+		"notification.warningBackground": "#ffc100",
+		"notification.warningForeground": "#fff",
+
+		"titleBar.activeBackground": "#222",
+		"titleBar.activeForeground": "#fff",
+		"titleBar.inactiveBackground": "#555",
+		"titleBar.inactiveForeground": "#fff",
+		"titleBar.border": "#4caf50",
+
+		"statusBar.background": "#4caf50",
+		"statusBar.foreground": "#fff",
+		"statusBar.border": "#4caf50",
+		"statusBar.debuggingBackground": "#21e400",
+		"statusBar.debuggingForeground": "#fff",
+		"statusBar.debuggingBorder": "#4caf50",
+		"statusBar.noFolderForeground": "#fff",
+		"statusBar.noFolderBackground": "#ffc100",
+		"statusBar.noFolderBorder": "#4caf50",
+		"statusBarItem.activeBackground": "#4c4c4c",
+		"statusBarItem.hoverBackground": "#5dbf61"
+	
 	}
 }
-  
