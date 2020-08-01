@@ -2,7 +2,7 @@
     "name": "vscode-darkgreen",
     "displayName": "VSCode DarkGreen",
     "description": "Una versión oscura, ayuda a cuidar tus ojos :D",
-    "version": "0.0.9",
+    "version": "0.0.11",
 	"publisher": "JaviertINC",
     "engines": {
         "vscode": "^1.45.0"
