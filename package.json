@@ -2,8 +2,14 @@
     "name": "vscode-darkgreen",
     "displayName": "VSCode DarkGreen",
     "description": "Una versión oscura, ayuda a cuidar tus ojos :D",
-    "version": "0.0.11",
+    "version": "0.1.0",
 	"publisher": "JaviertINC",
+    "icon": "images/icon.png",
+    "author": {
+      "name": "JaviertINC",
+      "email": "vscode@javiertinc.cl",
+      "url": "https://javiertinc.cl"
+    },
     "engines": {
         "vscode": "^1.45.0"
     },
